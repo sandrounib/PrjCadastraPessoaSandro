@@ -7,10 +7,10 @@ namespace PrjCadastraPessoaSandro
         static void Main(string[] args)
         {
             string[] Data = new string[10];
-            string [] Variable = new string[] {"name","adress","city","birthPlace","city","age","genre","civelState","rg","cpf"};
+            string [] Variable = new string[] {"nome","endereco","cidade","estado","localNascimento","idade","estadoCivil","profissao","rg","cpf"};
             for (int i = 0; i < Data.Length; i++)
             {
-                Console.WriteLine("Digete o seu/sua " + Variable[i]);
+                Console.WriteLine("Digite o seu/sua " + Variable[i]);
                 Data[i] = Console.ReadLine();
             }
             Console.Clear();

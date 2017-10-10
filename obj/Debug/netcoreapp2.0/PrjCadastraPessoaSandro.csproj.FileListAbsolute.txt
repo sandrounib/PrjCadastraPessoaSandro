@@ -1,0 +1,10 @@
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\bin\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.deps.json
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\bin\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.runtimeconfig.json
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\bin\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.runtimeconfig.dev.json
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\bin\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.dll
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\bin\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.pdb
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\obj\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.csproj.CoreCompileInputs.cache
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\obj\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.AssemblyInfoInputs.cache
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\obj\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.AssemblyInfo.cs
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\obj\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.dll
+C:\Users\Sandro Reis\Desktop\PrjCadastraPessoaSandro\obj\Debug\netcoreapp2.0\PrjCadastraPessoaSandro.pdb
